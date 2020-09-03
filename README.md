@@ -1,4 +1,4 @@
-# Lynn Wallenstein (Lin Wall-in-styne)
+# Rybalko Alexey
 
 - **Title**: Front-end Developer
 - **Team**: [Halo-lab](https://www.halo-lab.com/)
