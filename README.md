@@ -1,16 +1,13 @@
-### Hi there 👋
+# Lynn Wallenstein (Lin Wall-in-styne)
 
-<!--
-**Lensom/Lensom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Title**: Front-end Developer
+- **Team**: [Halo-lab](https://www.halo-lab.com/)
+- **Website**: [Under development](https://lensom.github.io/)
 
-Here are some ideas to get you started:
+## Connect
+- **Email**: [Click Here](magurawork@gmail.com)
+- **LinkedIn**: [Or here](https://www.linkedin.com/in/alexey-rybalko-20351714a/) 
+- **Instagram**: [Direct](https://www.instagram.com/magurawork/)
+- **Blog**: http://www.lynn.io
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
