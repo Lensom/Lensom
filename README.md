@@ -2,7 +2,7 @@
 
 - **Position**: Front-end Developer
 - **Team**: [Halo-lab](https://www.halo-lab.com/)
-- **Website**: [Under development](https://lensom.github.io/)
+- **Website**: [Here](https://lensom.github.io/) (Under development)
 
 ## Connect
 - **Email**: [Email](magurawork@gmail.com)
