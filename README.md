@@ -26,4 +26,3 @@ I am a Front End developer based in Ukraine. I have been developing since 2017 a
 - Took part in the development of a Web application using Vue.js. Project - Postcard by March 8, Customer - Sberbank of Russia, 3 million users, sharing and augmented reality (AR)
 - Website postcard for Valentine's Day in Belarus. 15 thousand people shared in social networks
 
-<img src="https://octodex.github.com/images/topguntocat.png" alt="Lynn Wallenstein" align="center" style="margin: 0 auto" />
