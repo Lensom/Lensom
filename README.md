@@ -1,6 +1,6 @@
 # Rybalko Alexey
 
-- **Title**: Front-end Developer
+- **Position**: Front-end Developer
 - **Team**: [Halo-lab](https://www.halo-lab.com/)
 - **Website**: [Under development](https://lensom.github.io/)
 
