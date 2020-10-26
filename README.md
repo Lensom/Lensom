@@ -11,7 +11,7 @@
 
 ## Little Bit About Me
 
-I am a Front End developer based in Ukraine. I have been developing since 2017 and still study and improve my skills. Customers have relied on me for development, implementation, and management of their digital products. As a freelancer, I works also with web agencies, companies, startups and individuals to create a awesome websites and applications for the digital business.
+I'm a Front End developer based in Ukraine. I have been developing since 2017 and still study and improve my skills. Customers have relied on me for development, implementation, and management of their digital products. As a freelancer, I works also with web agencies, companies, startups and individuals to create a awesome websites and applications for the digital business.
         
 ## Experiences
 
