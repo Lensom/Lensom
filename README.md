@@ -1,7 +1,7 @@
 # Rybalko Alexey
 
 - **Position**: Front-end Developer
-- **Team**: [Halo-lab](https://www.halo-lab.com/)
+- **Team**: [Andromeda]
 - **Website**: [Here](https://lensom.github.io/) (Under development)
 
 ## Connect
