@@ -15,7 +15,7 @@ I'm a Front End developer based in Ukraine. I have been developing since 2017 an
         
 ## Experiences
 
-- Halo Lab / Front End Develop / June 2020 - Until now
+- Halo Lab / Front End Develop / June 2020 - NOV 2020
 - Nikitin Team / Front End Developer / APR 2019 - FEB 2020
 - Yesgroup / junior Front End Developer / OCT 2018 - APR 2019
 - Freelancer / OCT 2017 - OCT 2018
