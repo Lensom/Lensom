@@ -1,8 +1,7 @@
-# Rybalko Alexey
+# Rybalko Oleksii
 
 - **Position**: Front-end Developer
 - **Team**: ~
-- **Website**: [Here](https://lensom.github.io/) (Under development)
 
 ## Connect
 - **Email**: [Email](magurawork@gmail.com)
@@ -11,18 +10,25 @@
 
 ## Little Bit About Me
 
-I'm a Front End developer based in Ukraine. I have been developing since 2017 and still study and improve my skills. Customers have relied on me for development, implementation, and management of their digital products. As a freelancer, I works also with web agencies, companies, startups and individuals to create a awesome websites and applications for the digital business.
+I am a front-end developer with 5 years of experience. 
+
+I am very organized and attentive to details in projects. Ready to take the initiative and
+try to learn from mistakes. I multitask and adapt well to new situations. I can successfully
+meet deadlines and work independently with little or no supervision.  I also feel that I can
+connect well with people.
+
         
 ## Experiences
+- Moohii / Middle Front-end developer / 02.2022 - current
+- NDA / React developer / 01.2021 - 02.2022
+- Halo Lab / Front-end Develop / 06.2020 - 12.2020
+- Nikitin Team / Front-end Developer / 10.2018 - 03.2020
 
-- Halo Lab / Front End Develop / June 2020 - NOV 2020
-- Nikitin Team / Front End Developer / APR 2019 - FEB 2020
-- Yesgroup / junior Front End Developer / OCT 2018 - APR 2019
-- Freelancer / OCT 2017 - OCT 2018
-- The beginning of the Front End way / MAY 2017
-
-## Recognition
-
-- Took part in the development of a Web application using Vue.js. Project - Postcard by March 8, Customer - Sberbank of Russia, 3 million users, sharing and augmented reality (AR)
-- Website postcard for Valentine's Day in Belarus. 15 thousand people shared in social networks
-
+## Education:
+- Bachelor's degree of Information Technology.
+Odesa National Maritime University. 
+2013-2018
+  
+-Master’s degree of Information Technology.
+Odesa National Maritime University. 
+2018-2019
