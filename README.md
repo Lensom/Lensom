@@ -29,6 +29,6 @@ connect well with people.
 Odesa National Maritime University. 
 2013-2018
   
--Master’s degree of Information Technology.
+- Master’s degree of Information Technology.
 Odesa National Maritime University. 
 2018-2019
