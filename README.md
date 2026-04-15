@@ -2,8 +2,8 @@
 <h1 align="center">👋 Hi, I'm Oleksii Rybalko</h1>
 
 <p align="center">
-  <b>Senior Front-End Developer | React • Next.js • TypeScript</b><br/>
-  📍 Based in Tiel, Netherlands
+  <b>Senior Frontend Engineer | React • Next.js • TypeScript</b><br/>
+  📍 Based in Bucharest, Romania
 </p>
 
 <p align="center">
@@ -15,79 +15,85 @@
 
 ---
 
-## 👨‍💻 About Me
-I’m a **Senior Front-End Developer** with 7+ years of experience building high-impact SPAs, government platforms, and design systems across European and Ukrainian markets.  
-Expert in **React**, **Next.js**, and **TypeScript**, with a strong focus on scalability, UI architecture, and performance optimization.  
+## 👨‍💻 Professional Summary
 
-I value **clean code**, **team collaboration**, and **scalable design thinking** — helping teams move faster through reusable component libraries and mentorship.
+Senior Frontend Engineer with 7+ years of experience building and scaling large B2B, e-commerce, and public-sector platforms across EU markets.  
+Focused on frontend architecture, design systems, and complex user flows, with end-to-end ownership of business-critical domains.
 
----
-
-## 🧠 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,redux,html,css,tailwind,scss,vite,webpack,jest,git,github,vscode" />
-</p>
+Proven impact through performance optimization, scalable UI foundations, and close collaboration with product, design, and backend teams.
 
 ---
 
-## 💼 Experience
+## 🧠 Core Skills
 
-### 🧩 Autodoc — Senior Front-End Developer  
+### Core Technologies
+- JavaScript (ES6+), TypeScript
+- React, Next.js, React Native
+
+### State & Data
+- Zustand, Redux Toolkit, Redux-Saga
+- REST APIs, WebSockets
+
+### UI & Styling
+- HTML5, CSS3, SCSS, Tailwind
+- Pixel-perfect implementation
+
+### Tooling & Quality
+- Webpack, Vite, Git, CI/CD
+- Jest, Playwright, Cucumber
+
+### Practices
+- Accessibility (a11y), SEO fundamentals, responsive design
+- Code reviews, mentoring
+
+### Languages
+- English — Advanced
+- Ukrainian — Native
+
+---
+
+## 💼 Work Experience
+
+### 🧩 Autodoc — Senior Frontend Engineer  
 📍 Berlin, Germany | 🗓 *10.2023 – Present*  
-- Leading front-end development of a multi-country **Return Portal** from scratch.  
-- Architecting scalable React components, integrating APIs, and writing Playwright E2E tests.  
-- Maintaining **Constanta UI**, an internal design system used across all Autodoc projects.  
-🔗 [Return Portal Demo](https://drive.google.com/file/d/1VxiN0kjzKcw2VeoQf-AlDNir1la8nrni/view?usp=sharing)  
-🔗 [Constanta UI Demo](https://drive.google.com/file/d/1S4s-XUcp9frPcAnKdb6-MtxPcR-oza2X/view?usp=sharing)  
+
+- Played a key role in designing and scaling frontend architecture for a multi-country return management platform processing **40K+ return requests weekly** across EU markets.
+- Took end-to-end ownership of complex frontend domains (Returns Portal, refund flows), influencing architectural decisions and cross-team technical direction.
+- Delivered customer-facing experiences that enabled **2× faster refunds**, **74% instant return decisions**, and **90% fewer returns-related support contacts**.
+- Contributed to the evolution of **Constanta UI**, improving consistency and speeding up delivery across teams.
+- Built reusable, well-tested UI components and collaborated closely with backend engineers, designers, and product managers.
 
 ---
 
-### 🪄 Moohii — Senior Front-End Developer  
+### 🪄 Moohii — Senior Frontend Engineer  
 📍 Dnipro, Ukraine | 🗓 *02.2022 – 08.2023*  
-- Built and maintained SPAs: e-commerce platforms, auctions, dashboards, and portals.  
-- Delivered **DrovaE** (national firewood ordering platform) and **Ecozagroza** (ecological threat dashboard).  
-🔗 [DrovaE](https://drovae.gov.ua)  
-🔗 [Ecozagroza](https://ecozagroza.gov.ua)  
-🔗 [Lullaby](https://lullaby.ua/)  
 
+- Built and maintained complex SPAs for high-traffic e-commerce and government platforms used by tens of thousands of users.
+- Improved frontend performance and UX through architectural refactoring and close collaboration with backend and product teams.
+- Contributed to frontend architecture, performance optimization, and accessibility compliance.
+- Delivered scalable, user-focused solutions for business and public-sector domains.
 
 ---
 
-### ⚙️ NDA — React Developer  
+### ⚙️ NDA — Frontend / React Developer  
 📍 Odesa, Ukraine | 🗓 *01.2021 – 02.2022*  
-- Developed dynamic SPAs using React and modern front-end tooling.  
+
+- Delivered dynamic SPAs using React and modern state management.
+- Integrated REST APIs and built reusable UI components for production environments.
 
 ---
 
-### 💡 Halo Lab — Front-End Developer  
-📍 Odesa, Ukraine | 🗓 *06.2020 – 12.2020*  
-- Delivered responsive SPAs and marketing websites.  
+### 🌐 Earlier Experience — Frontend Developer  
+📍 Odesa, Ukraine | 🗓 *2018 – 2020*  
 
----
-
-### 🌐 Nikitin — Front-End Developer  
-📍 Odesa, Ukraine | 🗓 *10.2018 – 03.2020*  
-- Created business websites and landing pages with WordPress CMS integrations.  
+- Worked across multiple commercial projects, building React-based applications for diverse client requirements.
 
 ---
 
 ## 🎓 Education
+
 **Master’s Degree in Information Technology**  
-Odesa National Maritime University (2018–2019)  
+Odesa National Maritime University *(2018–2019)*
 
 **Bachelor’s Degree in Information Technology**  
-Odesa National Maritime University (2013–2018)  
-
----
-
-## 🚀 Highlighted Projects
-
-| Project | Description | Tech Stack | Link |
-|----------|--------------|-------------|------|
-| **Return Portal** | Multi-country return management platform for Autodoc | React, Next.js, TypeScript, Zustand, Playwright, SCSS | [Demo](https://drive.google.com/file/d/1VxiN0kjzKcw2VeoQf-AlDNir1la8nrni/view?usp=sharing) |
-| **Constanta UI** | Internal design system for scalable development | React, TypeScript, Jest, SCSS | [Demo](https://drive.google.com/file/d/1S4s-XUcp9frPcAnKdb6-MtxPcR-oza2X/view?usp=sharing) |
-| **DrovaE** | National public service for firewood ordering | React, Next.js, Redux, TypeScript | [Website](https://drovae.gov.ua) |
-| **Ecozagroza** | Ecological threat monitoring dashboard | React, Next.js, Redux Toolkit | [Website](https://ecozagroza.gov.ua) |
-| **Lullaby** | Cosmetics e-commerce platform | React, Next.js, TypeScript, Google API | [Website](https://lullaby.ua) |
-
+Odesa National Maritime University *(2013–2018)*
