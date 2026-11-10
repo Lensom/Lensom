@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Senior Frontend Engineer | React · Next.js · TypeScript</b><br/>
-  Bucharest, Romania · Relocating to the Netherlands (visa sponsorship required)
+  Bucharest, Romania
 </p>
 
 <p align="center">
