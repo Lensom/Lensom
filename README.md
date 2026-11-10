@@ -1,99 +1,67 @@
-<!-- Hero Section -->
-<h1 align="center">👋 Hi, I'm Oleksii Rybalko</h1>
+<h1 align="center">Hi, I'm Oleksii Rybalko 👋</h1>
 
 <p align="center">
-  <b>Senior Frontend Engineer | React • Next.js • TypeScript</b><br/>
-  📍 Based in Bucharest, Romania
+  <b>Senior Frontend Engineer | React · Next.js · TypeScript</b><br/>
+  Bucharest, Romania · Relocating to the Netherlands (visa sponsorship required)
 </p>
 
 <p align="center">
-  <a href="mailto:magurawork@gmail.com"><img src="https://img.shields.io/badge/Email-magurawork%40gmail.com-blue?logo=gmail" /></a>
-  <a href="https://t.me/magurawork"><img src="https://img.shields.io/badge/Telegram-@magurawork-2CA5E0?logo=telegram" /></a>
-  <a href="https://github.com/Lensom"><img src="https://img.shields.io/badge/GitHub-Lensom-black?logo=github" /></a>
-  <a href="https://www.linkedin.com/in/oleksii-rybalko-front-end/"><img src="https://img.shields.io/badge/LinkedIn-Oleksii%20Rybalko-blue?logo=linkedin" /></a>
+  <a href="mailto:magurawork@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-magurawork%40gmail.com-D14836?logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/oleksii-rybalko-front-end/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Oleksii%20Rybalko-0A66C2?logo=linkedin&logoColor=white" /></a>
+  <a href="https://t.me/magurawork"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-@magurawork-26A5E4?logo=telegram&logoColor=white" /></a>
 </p>
 
----
+## About me
 
-## 👨‍💻 Professional Summary
+Senior Frontend Engineer with **8+ years** of experience building B2B, e-commerce and high-traffic public-sector web platforms in **React, Next.js and TypeScript**.
 
-Senior Frontend Engineer with 7+ years of experience building and scaling large B2B, e-commerce, and public-sector platforms across EU markets.  
-Focused on frontend architecture, design systems, and complex user flows, with end-to-end ownership of business-critical domains.
+- Core maintainer of a company-wide **React design system** adopted by **10-15 engineering teams**
+- Built a multi-country returns platform handling **40K+ requests per week**, with **2x faster refunds** and **90% fewer support tickets**
+- Strong in **frontend architecture, design systems, Core Web Vitals, SSR/ISR and accessibility (WCAG)**
+- Mentor junior and mid-level engineers and take part in technical hiring
+- Currently expanding into **Node.js backend** and **AI product engineering** (LLM APIs, AI agents, Python)
 
-Proven impact through performance optimization, scalable UI foundations, and close collaboration with product, design, and backend teams.
+## Tech stack
 
----
+| Area | Technologies |
+| --- | --- |
+| Languages and frameworks | JavaScript (ES6+), TypeScript, React 18/19, Next.js (SSR, ISR), HTML5, CSS3 |
+| State and data | Zustand, Redux Toolkit, Redux-Saga, REST APIs, WebSockets |
+| UI and styling | Design Systems, Component Libraries, Storybook, Tailwind CSS, SCSS |
+| Testing and tooling | Jest, Playwright, Cucumber, Webpack, Vite, Git, CI/CD |
+| AI and backend | LLM API integration, AI agents, AI-assisted development, Python |
+| Practices | Frontend Architecture, Frontend System Design, Core Web Vitals, Accessibility (WCAG), SEO |
 
-## 🧠 Core Skills
+## Work experience
 
-### Core Technologies
-- JavaScript (ES6+), TypeScript
-- React, Next.js, React Native
+### Senior Frontend Engineer · Autodoc
+Berlin, Germany · Oct 2023 – Aug 2026
 
-### State & Data
-- Zustand, Redux Toolkit, Redux-Saga
-- REST APIs, WebSockets
+- Built and scaled a multi-country **Return Management platform** (Next.js, TypeScript, Zustand) handling **40K+ return requests per week** across EU markets.
+- Designed automated decision-logic interfaces and simplified user flows: refunds became **2x faster**, **74%** of requests are decided instantly, and support tickets dropped by **90%**.
+- Core maintainer of **Constanta UI**, the internal React design system, adopted by **10-15 cross-functional teams**; replaced Bootstrap and Material UI and set up Storybook documentation and component tests.
+- Reviewed **dozens of pull requests per week** across teams and built proofs of concept for new technical approaches.
+- Mentored junior and mid-level engineers, pair-programmed with seniors, onboarded new hires, and ran technical interviews.
+- Delivered a back-office UI for dynamic return policies across **30+ localized European storefronts**.
 
-### UI & Styling
-- HTML5, CSS3, SCSS, Tailwind
-- Pixel-perfect implementation
+### Senior Frontend Engineer · Moohii
+Dnipro, Ukraine · Feb 2022 – Aug 2023
 
-### Tooling & Quality
-- Webpack, Vite, Git, CI/CD
-- Jest, Playwright, Cucumber
+- Developed high-traffic public-sector platforms used by tens of thousands of citizens: **DrovaE**, with secure authentication through Ukraine's national digital ID (Diia), and **Ecozagroza**, an ecological-threat monitoring dashboard.
+- Led the migration to **Next.js server-side rendering**, raising Lighthouse and Core Web Vitals scores from **30-50 to 90-100** and improving SEO.
+- Reduced bundle size with image compression and lazy loading; enforced WCAG accessibility.
 
-### Practices
-- Accessibility (a11y), SEO fundamentals, responsive design
-- Code reviews, mentoring
+### Frontend Developer · Pet marketplace (NDA)
+Odesa, Ukraine · Jan 2021 – Feb 2022
 
-### Languages
-- English — Advanced
-- Ukrainian — Native
+- Built a hybrid B2B/B2C pet marketplace (React, Redux) for listings, sales and adoptions, with social feeds, comments and personal dashboards.
 
----
+### Frontend Developer · Various clients
+Odesa, Ukraine · 2018 – 2020
 
-## 💼 Work Experience
+- Developed responsive single-page applications (React, JavaScript, SCSS) with REST API integrations.
 
-### 🧩 Autodoc — Senior Frontend Engineer  
-📍 Berlin, Germany | 🗓 *10.2023 – Present*  
+## Education and languages
 
-- Played a key role in designing and scaling frontend architecture for a multi-country return management platform processing **40K+ return requests weekly** across EU markets.
-- Took end-to-end ownership of complex frontend domains (Returns Portal, refund flows), influencing architectural decisions and cross-team technical direction.
-- Delivered customer-facing experiences that enabled **2× faster refunds**, **74% instant return decisions**, and **90% fewer returns-related support contacts**.
-- Contributed to the evolution of **Constanta UI**, improving consistency and speeding up delivery across teams.
-- Built reusable, well-tested UI components and collaborated closely with backend engineers, designers, and product managers.
-
----
-
-### 🪄 Moohii — Senior Frontend Engineer  
-📍 Dnipro, Ukraine | 🗓 *02.2022 – 08.2023*  
-
-- Built and maintained complex SPAs for high-traffic e-commerce and government platforms used by tens of thousands of users.
-- Improved frontend performance and UX through architectural refactoring and close collaboration with backend and product teams.
-- Contributed to frontend architecture, performance optimization, and accessibility compliance.
-- Delivered scalable, user-focused solutions for business and public-sector domains.
-
----
-
-### ⚙️ NDA — Frontend / React Developer  
-📍 Odesa, Ukraine | 🗓 *01.2021 – 02.2022*  
-
-- Delivered dynamic SPAs using React and modern state management.
-- Integrated REST APIs and built reusable UI components for production environments.
-
----
-
-### 🌐 Earlier Experience — Frontend Developer  
-📍 Odesa, Ukraine | 🗓 *2018 – 2020*  
-
-- Worked across multiple commercial projects, building React-based applications for diverse client requirements.
-
----
-
-## 🎓 Education
-
-**Master’s Degree in Information Technology**  
-Odesa National Maritime University *(2018–2019)*
-
-**Bachelor’s Degree in Information Technology**  
-Odesa National Maritime University *(2013–2018)*
+- **Master's and Bachelor's Degrees in Information Technology**, Odesa National Maritime University (2013 – 2019)
+- **English:** Advanced (C1) · **Ukrainian:** Native
